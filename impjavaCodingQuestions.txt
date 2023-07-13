@@ -1,0 +1,373 @@
+Here are 25 coding questions on Strings in Java that are frequently asked in interviews:
+
+Reverse a string.
+Check if a given string is palindrome or not.
+Count the number of vowels in a string.
+Count the number of words in a string.
+Check if two given strings are anagrams of each other.
+Find the first non-repeating character in a string.
+Find the maximum occurring character in a string.
+Remove all duplicates from a string.
+Check if a string is a rotation of another string.
+Find the length of the longest substring without repeating characters.
+Convert a string to a number without using any built-in methods.
+Check if a string contains only digits.
+Replace all occurrences of a given character in a string with another character.
+Find the common prefix among a set of strings.
+Reverse the order of words in a sentence.
+Count the number of occurrences of a given substring in a string.
+Find the first repeating character in a string.
+Convert a given sentence to Title Case.
+Check if a string is a valid shuffle of two other strings.
+Find the longest palindrome substring in a given string.
+Check if a string is a valid palindrome after deleting at most one character.
+Find the minimum window in a string containing all characters of another string.
+Implement Rabin-Karp algorithm for string matching.
+Implement KMP algorithm for string matching.
+Check if a given string can be formed by concatenating a set of substrings.
+In addition to these coding questions, you should also be familiar with the various string manipulation methods in Java such as charAt(), substring(), toLowerCase(), toUpperCase(), indexOf(), lastIndexOf(), split(), replace(), replaceAll(), etc.
+
+
+
+
+
+User
+need 25 on arrays
+ChatGPT
+Here are 25 coding questions on arrays in Java that are frequently asked in interviews:
+
+Find the second largest element in an array.
+Reverse an array.
+Check if a given array is sorted in non-decreasing order.
+Remove all duplicates from an array.
+Check if two given arrays are equal or not.
+Find the maximum subarray sum.
+Find the missing number in a given array of consecutive numbers.
+Find the common elements in two given arrays.
+Rotate an array by a given number of positions.
+Rearrange positive and negative numbers in an array such that positive numbers come first.
+Find the frequency of each element in an array.
+Find the kth smallest element in an array.
+Find the largest three elements in an array.
+Merge two sorted arrays into a single sorted array.
+Find the minimum and maximum element in an array with minimum number of comparisons.
+Find the peak element in an array.
+Sort an array of 0s, 1s, and 2s without using any sorting algorithm.
+Find the contiguous subarray with maximum product.
+Find the maximum difference between two elements in an array such that the larger element comes after the smaller element.
+Find the smallest positive integer missing from an unsorted array.
+Implement selection sort.
+Implement insertion sort.
+Implement bubble sort.
+Implement merge sort.
+Implement quick sort.
+In addition to these coding questions, you should also be familiar with the various array manipulation methods in Java such as length, clone(), copyOf(), copyOfRange(), fill(), sort(), binarySearch(), etc.
+
+
+
+
+
+User
+need another 25 on loops
+ChatGPT
+Here are 25 coding questions on loops in Java that are frequently asked in interviews:
+
+Write a program to print the numbers from 1 to 100 without using any loop.
+Write a program to print the Fibonacci series up to a given number.
+Write a program to find the factorial of a given number.
+Write a program to check if a given number is prime or not.
+Write a program to print the multiplication table of a given number.
+Write a program to find the sum of all the elements in an array.
+Write a program to find the average of all the elements in an array.
+Write a program to find the largest element in an array.
+Write a program to find the smallest element in an array.
+Write a program to check if a given string is a palindrome or not.
+Write a program to count the number of digits in a given number.
+Write a program to find the sum of the digits of a given number.
+Write a program to find the reverse of a given number.
+Write a program to find the sum of all the even numbers between 1 and a given number.
+Write a program to find the sum of all the odd numbers between 1 and a given number.
+Write a program to find the GCD (Greatest Common Divisor) of two given numbers.
+Write a program to find the LCM (Least Common Multiple) of two given numbers.
+Write a program to find the first n prime numbers.
+Write a program to print the Pascal's triangle up to a given number of rows.
+Write a program to find the Armstrong numbers between 1 and a given number.
+Write a program to find the sum of the series 1 + 1/2 + 1/3 + ... + 1/n.
+Write a program to find the sum of the series 1^2 + 2^2 + 3^2 + ... + n^2.
+Write a program to find the sum of the series 1 + x + x^2 + x^3 + ... + x^n.
+Write a program to find the sum of the digits of a given number until the sum becomes a single digit.
+Write a program to find the sum of the digits of the factorial of a given number.
+In addition to these coding questions, you should also be familiar with the various types of loops in Java such as for, while, do-while, and the control statements break and continue.
+
+
+
+
+
+User
+need another 25 on a digit 
+based on digits
+ChatGPT
+Here are 25 coding questions on digits in Java that are frequently asked in interviews:
+
+Write a program to count the number of digits in a given number.
+Write a program to find the sum of the digits of a given number.
+Write a program to find the reverse of a given number.
+Write a program to check if a given number is a palindrome or not.
+Write a program to find the Armstrong numbers between 1 and a given number.
+Write a program to find the sum of the digits of a given number until the sum becomes a single digit.
+Write a program to find the number of occurrences of a given digit in a given number.
+Write a program to find the largest digit in a given number.
+Write a program to find the smallest digit in a given number.
+Write a program to find the product of the digits of a given number.
+Write a program to check if a given number is a perfect number or not.
+Write a program to check if a given number is an abundant number or not.
+Write a program to check if a given number is a deficient number or not.
+Write a program to check if a given number is a Harshad number or not.
+Write a program to find the sum of the factorials of the digits of a given number.
+Write a program to check if a given number is a narcissistic number or not.
+Write a program to find the next palindrome of a given number.
+Write a program to find the nearest palindrome of a given number.
+Write a program to find the sum of the squares of the digits of a given number.
+Write a program to check if a given number is a perfect square or not.
+Write a program to find the sum of the cubes of the digits of a given number.
+Write a program to check if a given number is a happy number or not.
+Write a program to find the nth digit of the Fibonacci sequence.
+Write a program to find the sum of the digits of a given number in hexadecimal representation.
+Write a program to find the number of trailing zeros in the factorial of a given number.
+In addition to these coding questions, you should also be familiar with the various methods and properties of the java.lang.Integer and java.lang.Long classes that are used to manipulate numbers and digits in Java.
+
+
+
+
+
+User
+need another 25 on patterns 
+ChatGPT
+Here are 25 coding questions on patterns in Java that are frequently asked in interviews:
+
+Write a program to print a pattern of asterisks in a square shape.
+Write a program to print a pattern of asterisks in a right-angled triangle shape.
+Write a program to print a pattern of asterisks in an isosceles triangle shape.
+Write a program to print a pattern of asterisks in a diamond shape.
+Write a program to print a pattern of asterisks in a pyramid shape.
+Write a program to print a pattern of asterisks in a half-diamond shape.
+Write a program to print a pattern of numbers in a right-angled triangle shape.
+Write a program to print a pattern of numbers in an isosceles triangle shape.
+Write a program to print a pattern of numbers in a diamond shape.
+Write a program to print a pattern of numbers in a pyramid shape.
+Write a program to print a pattern of numbers in a half-diamond shape.
+Write a program to print a pattern of alphabets in a right-angled triangle shape.
+Write a program to print a pattern of alphabets in an isosceles triangle shape.
+Write a program to print a pattern of alphabets in a diamond shape.
+Write a program to print a pattern of alphabets in a pyramid shape.
+Write a program to print a pattern of alphabets in a half-diamond shape.
+Write a program to print a pattern of Pascal's Triangle.
+Write a program to print a pattern of Floyd's Triangle.
+Write a program to print a pattern of Prime Numbers.
+Write a program to print a pattern of Fibonacci Numbers.
+Write a program to print a pattern of Palindrome Numbers.
+Write a program to print a pattern of Perfect Numbers.
+Write a program to print a pattern of Armstrong Numbers.
+Write a program to print a pattern of Happy Numbers.
+Write a program to print a pattern of Spiral Numbers.
+In addition to these coding questions, you should also be familiar with the various loops and conditional statements that are used to manipulate patterns in Java. You should also be familiar with the various methods and properties of the java.lang.String and java.lang.StringBuilder classes that are used to manipulate strings and characters in Java.
+
+
+
+
+
+User
+need another 25 on math related 
+ChatGPT
+Here are 25 coding questions on math-related topics in Java that are frequently asked in interviews:
+
+Write a program to find the factorial of a number.
+Write a program to find the GCD of two numbers.
+Write a program to find the LCM of two numbers.
+Write a program to find the sum of the digits of a number.
+Write a program to find the reverse of a number.
+Write a program to check whether a number is palindrome or not.
+Write a program to check whether a number is Armstrong or not.
+Write a program to check whether a number is perfect or not.
+Write a program to check whether a number is prime or not.
+Write a program to find the nth Fibonacci number.
+Write a program to find the square root of a number.
+Write a program to convert a decimal number to binary.
+Write a program to convert a binary number to decimal.
+Write a program to convert a decimal number to hexadecimal.
+Write a program to convert a hexadecimal number to decimal.
+Write a program to find the sum of the first n natural numbers.
+Write a program to find the sum of the first n odd numbers.
+Write a program to find the sum of the first n even numbers.
+Write a program to find the sum of the squares of the first n natural numbers.
+Write a program to find the sum of the cubes of the first n natural numbers.
+Write a program to find the average of n numbers.
+Write a program to find the maximum of n numbers.
+Write a program to find the minimum of n numbers.
+Write a program to find the roots of a quadratic equation.
+Write a program to calculate the area and perimeter of a circle.
+In addition to these coding questions, you should also be familiar with the various mathematical functions and operations available in Java, such as Math.pow(), Math.sqrt(), and Math.abs(). You should also be familiar with the various data types used to represent numbers in Java, such as int, long, float, and double.
+
+
+
+
+
+User
+so any other topics in need?
+ChatGPT
+There are several other topics that are frequently asked in coding interviews. Here are some examples:
+
+Recursion
+Data structures (e.g. linked lists, stacks, queues, trees, and graphs)
+Sorting algorithms (e.g. bubble sort, selection sort, insertion sort, merge sort, quicksort)
+Searching algorithms (e.g. linear search, binary search)
+Dynamic programming
+Object-oriented programming concepts (e.g. inheritance, polymorphism, encapsulation)
+Exception handling
+File I/O operations
+Multi-threading and concurrency
+Network programming and socket programming
+Design patterns
+Test-driven development and unit testing
+Database connectivity and SQL queries
+Web development frameworks (e.g. Spring, Hibernate)
+Mobile application development (e.g. Android)
+It's important to note that the specific topics that are covered in coding interviews can vary depending on the company and the role. It's a good idea to research the company and the role before the interview to get a sense of what topics might be covered.
+
+
+
+
+
+User
+another 10 on recursion
+ChatGPT
+Sure, here are 10 coding questions on recursion in Java that are frequently asked in interviews:
+
+Write a program to find the factorial of a number using recursion.
+Write a program to calculate the nth Fibonacci number using recursion.
+Write a program to find the GCD of two numbers using recursion.
+Write a program to reverse a string using recursion.
+Write a program to check whether a string is palindrome or not using recursion.
+Write a program to print all permutations of a string using recursion.
+Write a program to find the power of a number using recursion.
+Write a program to implement binary search using recursion.
+Write a program to find the maximum element in an array using recursion.
+Write a program to sort an array using quicksort algorithm with recursion.
+Recursion can be a challenging topic, so it's important to practice implementing recursive solutions to various problems. You should also be familiar with the basic principles of recursion, such as the base case and the recursive case, as well as how recursion works with the call stack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+String:
+
+Write a program to reverse a given string.
+Write a program to check if a given string is a palindrome or not.
+Write a program to find the length of a given string.
+Write a program to count the number of occurrences of a given character in a string.
+Write a program to remove all the white spaces from a given string and replace it with * dont use any inbuilt methods.
+Write a program to check if a given string contains only digits or not.
+Write a program to check if a given string contains a specific word or not.
+Write a program to convert a given string to all uppercase.
+Write a program to convert a given string to all lowercase.
+Write a program to concatenate two given strings.
+Write a program to find the first non-repeated character in a given string.
+Write a program to find the most repeated character in a given string.
+Write a program to remove all the vowels from a given string.
+Write a program to check if a given string is an anagram of another string or not.
+Write a program to find the second highest frequency character in a given string.
+Arrays:
+
+Write a program to find the sum of all the elements in an array.
+Write a program to find the average of all the elements in an array.
+Write a program to find the maximum and minimum elements in an array.
+Write a program to find the second largest element in an array.
+Write a program to sort an array in ascending order.
+Write a program to sort an array in descending order.
+Write a program to find the index of a specific element in an array.
+Write a program to remove a specific element from an array.
+Write a program to remove duplicates from an array.
+Write a program to reverse an array.
+Write a program to find the intersection of two arrays.
+Write a program to find the union of two arrays.
+Write a program to find the difference between two arrays.
+Write a program to rotate an array to the left or right by a given number of positions.
+Write a program to find the contiguous subarray with the maximum sum in an array.
+Loops:
+
+Write a program to print the numbers from 1 to n using a for loop.
+Write a program to print the numbers from n to 1 using a for loop.
+Write a program to print the even numbers from 1 to n using a for loop.
+Write a program to print the odd numbers from 1 to n using a for loop.
+Write a program to find the factorial of a given number using a for loop.
+Write a program to find the sum of the digits of a given number using a while loop.
+Write a program to print the Fibonacci series up to a given number using a for loop.
+Write a program to check if a given number is a prime number or not using a for loop.
+Write a program to print the multiplication table of a given number using a for loop.
+Write a program to find the GCD of two given numbers using a for loop.
+Write a program to find the LCM of two given numbers using a for loop.
+Write a program to find the sum of all the even numbers between 1 and n using a for loop.
+Write a program to find the sum of all the odd numbers between 1 and n using a for loop.
+Write a program to find the reverse of a given number using a while
+
+
+User
+on digits as well
+ChatGPT
+Sure, here are 15 frequently asked questions on digits for Java freshers:
+
+Write a Java program to find the sum of digits of a given number.
+Write a Java program to count the number of digits in a given number.
+Write a Java program to find the reverse of a given number.
+Write a Java program to check if a given number is a palindrome or not.
+Write a Java program to find the largest digit in a given number.
+Write a Java program to find the smallest digit in a given number.
+Write a Java program to find the product of digits of a given number.
+Write a Java program to check if a given number is a perfect number or not.
+Write a Java program to check if a given number is an Armstrong number or not.
